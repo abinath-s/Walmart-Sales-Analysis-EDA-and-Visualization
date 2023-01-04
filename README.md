@@ -28,3 +28,9 @@ Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\
 Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\
 Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\
 Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
+
+# Conclution:
+
+## We can see that there are various column that have very week correlation and thus its always better to drop these columns before modelling since that columns dosent contribute much to the process.
+
+## Also,some columns are strongly correlated . One of them must be dropped else they would carry similar information to the model.
