@@ -31,6 +31,6 @@ Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 # Conclution:
 
-## We can see that there are various column that have very week correlation and thus its always better to drop these columns before modelling since that columns dosent contribute much to the process.
+ We can see that there are various column that have very week correlation and thus its always better to drop these columns before modelling since that columns dosent contribute much to the process.
 
-## Also,some columns are strongly correlated . One of them must be dropped else they would carry similar information to the model.
+ Also,some columns are strongly correlated . One of them must be dropped else they would carry similar information to the model.
